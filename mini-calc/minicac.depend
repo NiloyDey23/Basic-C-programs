@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496920462 source:c:\users\dell\desktop\new folder\mini-calc\main.c
+	<stdio.h>
+	<stdlib.h>
+

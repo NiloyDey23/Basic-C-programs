@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1493741341 source:c:\users\dell\desktop\new folder\snake\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<process.h>
+

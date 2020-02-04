@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1501237980 source:c:\users\dell\desktop\new folder\new folder\quiz\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+

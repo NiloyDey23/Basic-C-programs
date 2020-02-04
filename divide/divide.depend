@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487922147 source:c:\users\dell\desktop\new folder\divide\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1487673521 source:c:\users\dell\desktop\new folder\first\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<ctype.h>
+

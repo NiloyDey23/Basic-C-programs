@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503232406 source:c:\users\dell\desktop\new folder\new folder\projctsample\main.c
+	<stdio.h>
+	<conio.h>
+

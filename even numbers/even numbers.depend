@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1498541943 source:c:\users\dell\desktop\new folder\new folder\even numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
